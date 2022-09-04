@@ -1,1 +1,1 @@
-a symbolic link to /bin/ls, named __ls__
+Updating 13 symbolic link file
